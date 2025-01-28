@@ -5,3 +5,6 @@
 3. Send the .zip file to your computer and extract it
 4. Name the extracted .txt file as ‘chat.txt’
 5. Run the .exe on the program folder
+
+If you want to consistently skip multiple words, you can add them to ban.csv in the following format:
+"word1", "word2", "word3"
