@@ -1,3 +1,5 @@
+## This program currently only works with iPhone export
+
 ### Steps to use the program:
 
 1. In the WhatsApp application on your phone, go to the chat you want to analyze
